@@ -1,0 +1,9 @@
+sku,name,description,warehouse_num
+'AAA-1','Laptop','Portable computer for work and entertainment.',1
+'AAA-2','Guitar','Musical instrument for playing melodies and chords.',3
+'AAA-3','Clock','Timekeeping device for tracking hours and minutes.',1
+'BBB-1','Bag','Carries and stores personal items and belongings.',2
+'BBB-2','Pen','Writing instrument for ink-based writing.',3
+'BBB-3','Bottle','Container for holding liquids or beverages.',3
+'CCC-1','Book','Printed content for reading and information.',1
+'CCC-2','Chair','Seating furniture for comfort and support.',2
